@@ -1,0 +1,6 @@
+name: AutoSoupCheck
+author: VinyyHD
+version: 1.0
+main: me.AutoSoupCheck.Main
+commands:
+   CheckAS:
